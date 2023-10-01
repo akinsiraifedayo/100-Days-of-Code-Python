@@ -33,7 +33,6 @@ def decrypt(message):
     print(plain_text)
     return ' '.join(plain_text)
 
-
 def main():
     # make morse to english dict from the existing dictionary
     print('***morse code converter***')
