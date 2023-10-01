@@ -35,7 +35,7 @@ def decrypt(message):
 
 
 def main():
-    # make morse to english dict from the existing dictIONARY
+    # make morse to english dict from the existing dictionary
     print('***morse code converter***')
     while True:
         command = ''
